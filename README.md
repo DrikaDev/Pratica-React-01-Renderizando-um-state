@@ -6,3 +6,20 @@ Exercícios para treinar os estudos iniciais de React pelo curso do Vai Na Web<b
 #
 👉🏼 Bônus:<br>
 Adicionar uma imagem da sua fruta favorita via import
+
+<h2> Linguagens utilizadas: </h2>
+
+<table>
+<tr>
+  <th> HTML </th>
+  <th> CSS </th>
+  <th> JS </th>
+  <th> React </th>
+</tr>
+<tr>
+  <td> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </td>
+  <td> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </td>
+  <td> <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </td>
+  <td> <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> </td>
+</tr>
+</table>

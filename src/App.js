@@ -1,5 +1,6 @@
 import { Component } from 'react';
 import './App.css';
+import fotobanana from "./img/banana.webp"
 
 class App extends Component{
   state = {
@@ -22,11 +23,12 @@ class App extends Component{
           <li>Música favorita n.3: {this.state.musicasFavoritas[2]}</li>
         </ul>
       </div>
-      <div className='favoriteFruit'>
-        <img src='banana.webp' title="Banana com granola"></img>
-      </div>
+      <figure className='favoriteFruit'>
+        <img src={fotobanana} title="Banana com granola"/>
+      </figure>
       </>
     )
   }
 }
 export default App;
+
